@@ -7,7 +7,7 @@ Figure 6: Tumor growth curves, immune cell type UMAP, CD8T proportion timecourse
 
 ![alternativetext](weller_bartok_mcginnis_fig6.png)
 
-Figure S10: Immune cell type annotation dotplot, Immune cell type proportion timepoint barchart and p-value heatmap, CD8T subtype proportion timepoint barchart and p-value heatmap, NK subtype UMAP and annotation marker feature plots, and Cytotoxic NK cell subtype proporton and cytotoxicity score timepoint barchart and violin plot
+Figure S6: Immune cell type annotation dotplot, Immune cell type proportion timepoint barchart and p-value heatmap, CD8T subtype proportion timepoint barchart and p-value heatmap, NK subtype UMAP and annotation marker feature plots, and Cytotoxic NK cell subtype proporton and cytotoxicity score timepoint barchart and violin plot
 
-![alternativetext](weller_bartok_mcginnis_figS10.png)
+![alternativetext](weller_bartok_mcginnis_figS6.png)
 
